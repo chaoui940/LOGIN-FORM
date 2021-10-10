@@ -1,0 +1,29 @@
+body {
+	font-family: Verdana,sans-serif;
+	line-height: 1.5;
+	font-size: 15px;
+	font-size: 100%;
+	background-color: #ffffff;
+	margin: 100px 10px 0px 20px;
+	border: 20px;
+	color: white;
+}
+.container1 {
+
+	background-color: #00CED1 ;
+	margin: 10px;
+	border-style: hidden;
+	padding: 20px ;
+}
+.container2 {
+	background-color: #FF0000 ;
+	margin: 10px;
+	border-style: hidden;
+	padding: 20px ;
+}
+.container3 {
+	background-color: #008000 ;
+	margin: 10px;
+	border-style: hidden;
+	padding: 20px ;
+}
